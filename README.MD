@@ -1,6 +1,6 @@
 # 给网易云添加Global Media Controls的支持
 
-本脚本仅支持Chrome 77的浏览器，需要安装油猴插件
+本脚本仅支持Chrome 79以上或者Chrome Canary 77以上的浏览器，需要安装油猴插件
 
 支持网易云音乐通过Chrome的Global media controls进行歌曲信息显示，播放/暂停，上一曲下一曲的控制
 
