@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Netease cloud music controller
 // @namespace    https://github.com/superboy724/NeteaseCloudMusicController
-// @version      1.0.1
+// @version      1.0.2
 // @description  Chrome global media control support for netease cloud music 
 // @author       superboy724
 // @match        music.163.com
