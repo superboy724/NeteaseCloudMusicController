@@ -16,7 +16,7 @@ var NeteaseMusicController = {
     },
     next : function(){
         //网易云下一曲
-        this.neteaseController.pu5n()
+        this.neteaseController.pu5z()
     }
 }
 
