@@ -9,14 +9,14 @@
 // ==/UserScript==
 
 var NeteaseMusicController = {
-    neteaseController : NEJ.P('nm.w').ud7W.fM2x(),
+    neteaseController : NEJ.P('nm.w').ud8V.fM4Q(),
     prev : function(){
         //网易云上一曲
         this.neteaseController.Dq0x()
     },
     next : function(){
         //网易云下一曲
-        this.neteaseController.pu5z()
+        this.neteaseController.pu7n()
     }
 }
 
