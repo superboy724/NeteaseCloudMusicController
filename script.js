@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Netease cloud music controller
 // @namespace    https://github.com/superboy724/NeteaseCloudMusicController
-// @version      1.0.3
+// @version      1.0.5
 // @description  Chrome global media control support for netease cloud music 
 // @author       superboy724
 // @match        music.163.com
@@ -9,14 +9,14 @@
 // ==/UserScript==
 
 var NeteaseMusicController = {
-    neteaseController : NEJ.P('nm.w').ud8V.fM4Q(),
+    neteaseController : NEJ.P('nm.w').uX2x.fQ8I(),
     prev : function(){
         //网易云上一曲
-        this.neteaseController.Dq0x()
+        this.neteaseController.EB5G()
     },
     next : function(){
         //网易云下一曲
-        this.neteaseController.pu7n()
+        this.neteaseController.pl1x()
     }
 }
 
